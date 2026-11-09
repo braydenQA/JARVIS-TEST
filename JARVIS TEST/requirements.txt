@@ -1,0 +1,8 @@
+numpy
+sounddevice
+edge-tts
+miniaudio
+soundcard>=0.4.4
+pywebview
+vosk
+psutil>=5.9
